@@ -1,0 +1,10 @@
+! Title: My Thai Ads Blocklist
+! Description: Custom blocklist for blocking thai gambling and popups
+! Updated: 2026-02-19
+||redkong89.cc^
+||taptapth.co^
+||mammoth88.cc^
+||london45.cc^
+||78900112.vip^
+||jun8889.com^
+||c301.cc^
