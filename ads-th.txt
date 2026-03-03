@@ -1,6 +1,6 @@
 ! Title: My Thai Ads Blocklist
 ! Description: Custom blocklist for blocking thai gambling and popups
-! Updated: 2026-02-19
+! Updated: 2026-03-03
 ||123fox.vip^
 ||123v2.com^
 ||123win888.vip^
@@ -18,6 +18,9 @@
 ||c301.cc^
 ||ceo66.live^
 ||dafahappy.com^
+||dafawining.com^
+||debet.win^
+||dewi11non.site^
 ||flowersinisrael.com^
 ||gladstone64.com^
 ||growyourown.info^
@@ -54,6 +57,7 @@
 ||tampafamilyhc.com^
 ||taptapth.co^
 ||teenoi69.top^
+||tkiodsor.in^
 ||ubet89.io^
 ||ufa-11k.app^
 ||ufabetl.org^
