@@ -1,6 +1,6 @@
 ! Title: My Thai Ads Blocklist
 ! Description: Custom blocklist for blocking thai gambling and popups
-! Updated: 2026-03-04
+! Updated: 2026-03-13
 ||11k-ufa.live^
 ||123faz.center^
 ||123fox.vip^
@@ -86,11 +86,13 @@
 ||pynbet.bet^
 ||qpfc.com^
 ||qqfortunabkk.com^
+||rak8s.com^
 ||red789aff1.com^
 ||redkong89.cc^
 ||refsabuy.biz^
 ||regem.bet^
 ||richwin66c.com^
+||safmuzwte.in^
 ||sagame66r.com^
 ||sbobet888m.win^
 ||sbobetone.co^
